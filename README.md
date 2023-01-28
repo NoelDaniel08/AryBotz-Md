@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/26d2b41025793bd7614a7.jpg" alt="Hinata-Md" width="100"/>
+<img src="https://telegra.ph/file/183ceab33b9b0505a2608.jpg" alt="Hinata-Md" width="100"/>
 
 
 </p>
